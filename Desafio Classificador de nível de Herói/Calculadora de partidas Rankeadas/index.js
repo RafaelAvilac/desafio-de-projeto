@@ -22,4 +22,4 @@ function saldo(vitorias, derrotas) {
   return `O Herói tem saldo de ${saldo}, está no nível ${nivel}`;
 }
 
-console.log(saldo(250, 35));
+console.log(saldo(250, 32));
